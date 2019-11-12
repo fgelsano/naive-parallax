@@ -1,0 +1,24 @@
+#intro-hero h1{
+    font-size: 4em;
+    color: #fff;
+}
+
+.onScrollNav {
+    background: #fff;
+    border-radius: 100px;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,.3);
+    margin: -20px auto 0;
+    padding: 15px;
+    position: relative;
+    width: 1170px;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+}
+
+#nav {
+    background: transparent;
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+}
